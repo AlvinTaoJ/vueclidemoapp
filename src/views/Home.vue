@@ -2,7 +2,7 @@
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="Welcome to aoping's blog"/>
-    3
+    4
   </div>
 </template>
 
